@@ -1,0 +1,22 @@
+1) Descargar esta carpeta
+
+2) dentro de la carpeta  crear un entorno virtual de python
+    con los siguientes comandos Linux
+
+    crear entornovirtual ->  python3 -m venv env 
+    activar entorno virtual -> source env/bin/activate
+
+3)  Instalar las librerias de python necesarias para el programa
+
+    Instalar librerias -> pip install -r requirements.txt
+
+4) Ejecutar el programa corriendo el archivo main.python
+
+    Ejecutar programa -> python main.py
+
+Se habriara un menu de opciones donde le pedira ingresar
+los datos necesarios para hacer los calculos
+
+La proxima vez que quiera  Ejecutar el programa
+solo debera activar el entorno virtual y correr
+el archivo main.py

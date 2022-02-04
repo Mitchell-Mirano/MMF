@@ -1,0 +1,9 @@
+
+Ingresar una opcion:
+
+(1) -> Calcular el potencial electrico en un punto (x,y)
+(2) -> Graficar lineas equipotenciales
+(3) -> Calcular campo electrico a partir de superficies equipotenciales
+(4) -> Graficar trayectoria en el experimento de Rutherford
+
+(q) -> Para salir del programa
